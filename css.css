@@ -1,0 +1,83 @@
+header {
+	padding: 0px 50px 100px 50px;
+	background-size: 100%;
+	background-image: url("./img/Logo3.png");
+	Background-repeat: no-repeat;
+	height: 250px;
+}
+header * {
+	margin:0px;
+	padding:0px;
+}
+#header {
+	margin:auto;
+	width:500px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+ul, ol {
+	list-style:none;
+}
+.nav > li {
+	float:left;
+}
+.nav li a {
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	padding:10px 12px;
+	display:block;
+}
+.nav li a:hover {
+	background-color:#434343;
+}			
+.nav li ul {
+	display:none;
+	position:absolute;
+	min-width:140px;
+}			
+.nav li:hover > ul {
+	display:block;
+}		
+.nav li ul li {
+	position:relative;
+}			
+.nav li ul li ul {
+	right:-140px;
+	top:0px;
+}
+#header ul li form {
+	color: red;
+	padding: 8px;
+}
+.lateral {
+	background-color: red;
+}
+.row {
+	background-color: black;
+	margin: 0px 10% 0px 10%;
+	padding-right: 20%;
+	padding-left: 20%;
+	color: red;
+}
+.imagen1 {
+	float: right;
+	clear: right;
+	padding: 2%;
+}
+.imagen2 {
+	float: left;
+	clear: left;
+	padding: 2%;
+}
+.row2 {
+	background-color: black;
+	color: red;
+}
+.row2 h1 {
+	text-align:center;
+}
+.cita {
+	text-align: center;
+	text-decoration: underline;
+	color: white;
+}

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="preguntas.xsd">
+    <question id="q001">
+        <type>select</type>
+        <title>
+            1. ¿En qué año empieza la saga por orden cronológico?
+        </title>
+        <option>1964</option>
+        <option>1963</option>
+        <option>1965</option>
+		<option>1974</option>
+        <answer>0</answer>
+    </question>
+    <question id="q002">
+        <type>select</type>
+        <title>
+            2. ¿Qué propicia los hechos en Metal Gear Solid 3?
+        </title>
+        <option>La crísis petrolífera.</option>
+        <option>La guerra fría.</option>
+        <option>La guerra de Cuba.</option>
+		<option>Las nanomáquinas.</option>
+        <answer>1</answer>
+    </question>
+    <question id="q003">
+        <type>multiple</type>
+        <title>
+            3. ¿Cuantos hijos forman "Les Enfants Terribles"?
+        </title>
+        <option>No se sabe</option>
+        <option>2</option>
+        <option>3</option>
+        <option>4</option>
+        <answer>2</answer>
+    </question>
+    <question id="q004">
+        <type>multiple</type>
+        <title>
+            4. ¿Cuales de los siguientes son "Les Enfants Terribles"?
+        </title>
+        <option>Solid Snake</option>
+        <option>Liquid Snake</option>
+        <option>Solidus Raven</option>
+        <option>Sniper Wolf</option>
+        <option>The Sorrow</option>
+        <answer>0</answer>
+        <answer>1</answer>
+    </question>
+    <question id="q005">
+        <type>text</type>
+        <title>
+            5. ¿En qué año se publicó el primer Metal Gear?
+        </title>
+        <answer>1987</answer>
+    </question>
+    <question id="q006">
+        <type>text</type>
+        <title>
+            6. ¿De qué convención viene el nombre Otacon?
+        </title>
+        <answer>Otaku Convention</answer>
+    </question>
+    <question id="q007">
+        <type>radio</type>
+        <title>7. “Un hombre fuerte no necesita saber su futuro, crea el suyo propio.”, ¿quien dice esta frase? </title>
+        <option>Big Boss</option>
+        <option>Raiden</option>
+        <option>Solid Snake</option>
+        <answer>2</answer>
+    </question>
+    <question id="q008">
+        <type>radio</type>
+        <title>8. ¿Cómo se llama el tanque bípedo de Metal Gear Solid 3?</title>
+		<option>Shagohod</option>
+		<option>Rex</option>
+		<option>Ray</option>
+		<option>Zeke</option>
+        <answer>0</answer>
+    </question>
+    <question id="q009">
+        <type>checkbox</type>
+        <title>
+            9. ¿Cuales de los siguientes temas son tocados en la saga?
+        </title>
+        <option>Finalidad de la guerra</option>
+        <option>Peligro de las armas nucleares</option>
+        <option>La enemistad relativa</option>
+        <option>La economía de guerra</option>
+        <option>La venganza</option>
+        <option>La justicia</option>
+        <option>El amor</option>
+		<option>La muerte</option>
+        <answer>0</answer>
+        <answer>1</answer>
+        <answer>2</answer>
+        <answer>4</answer>
+    </question>
+    <question id="q010">
+        <type>checkbox</type>
+        <title>
+            10. ¿En qué organizaciones estuvo Revolver Ocelot?
+        </title>
+        <option>FOX</option>
+        <option>Outer Heaven</option>
+        <option>Diamond Dogs</option>
+		<option>FOXHOUND</option>
+		<option>Unidad Cobra</option>
+		<option>Sons of Big Boss</option>
+        <answer>2</answer>
+        <answer>3</answer>
+		<answer>5</answer>
+    </question>
+</questions>
